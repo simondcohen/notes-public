@@ -4,4 +4,6 @@ title: "New Note"
 updated: "2025-04-23T23:05:30.583232+00:00"
 
 ---
+# New Note
+
 <p></p>
